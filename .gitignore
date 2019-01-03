@@ -2,7 +2,6 @@
 *.parq
 *.csv
 *.xls
-*.txt
 *html_letters/
 *.pdf
 
