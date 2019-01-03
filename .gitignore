@@ -1,0 +1,16 @@
+# data files
+*.parq
+*.csv
+*.xls
+*.txt
+*html_letters/
+*.pdf
+
+# pycharm files
+*.idea
+
+# notebooks
+*.ipynb
+
+# randoms
+*__pycache__
